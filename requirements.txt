@@ -1,0 +1,6 @@
+tensorflow-gpu
+numpy
+opencv-python-headless
+matplotlib
+glob2
+scipy
